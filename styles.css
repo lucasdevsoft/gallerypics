@@ -134,5 +134,8 @@ a:active{
     color: #fff;
 }
 
+.grid-item:active {
+    transform: scale(1.44);
+}
 
 
